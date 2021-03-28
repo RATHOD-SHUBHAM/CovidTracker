@@ -48,16 +48,16 @@ Your app is ready to be deployed!
 
 ## Learn More
 
-      - To learn React, check out the [React documentation](https://reactjs.org/).
-      - Learn more about [Material-UI](https://material-ui.com/getting-started/installation/)
-      - Wanna know what chart.js is --> click [here](https://www.chartjs.org/docs/latest/)
-      - To learn about react leaflets click [here](https://react-leaflet.js.org/docs/start-installation)
-      - Why [Numeral.js](http://numeraljs.com)
-      - To know more about the API. Check out [disease.sh](https://disease.sh)
+- To learn React, check out the [React documentation](https://reactjs.org/).
+- Learn more about [Material-UI](https://material-ui.com/getting-started/installation/)
+- Wanna know what chart.js is --> click [here](https://www.chartjs.org/docs/latest/)
+- To learn about react leaflets click [here](https://react-leaflet.js.org/docs/start-installation)
+- Why [Numeral.js](http://numeraljs.com)
+- To know more about the API. Check out [disease.sh](https://disease.sh)
 
 ### Deployment
 Application was deployed on 
 
-      - Netlify - whats is [netlify](https://www.netlify.com)
-      - Firebase - Google [firebase](https://firebase.google.com)
-      - [github](https://rathod-shubham.github.io/CovidTracker/)  aswell.
+- Netlify - whats is [netlify](https://www.netlify.com)
+- Firebase - Google [firebase](https://firebase.google.com)
+- [github](https://rathod-shubham.github.io/CovidTracker/)  aswell.
