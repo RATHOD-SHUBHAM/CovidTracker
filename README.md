@@ -3,7 +3,7 @@ Developed a covid tracker that tracks overall cases, recovered cases, and deaths
 Hover your mouse over your favorite country on the map for a pop up. 😉\
 click to view the project [here](https://rathod-shubham.github.io/CovidTracker/)
 
-## Plan
+## Mind Map
 ![COVID ](https://user-images.githubusercontent.com/58945964/112741896-0e4c4580-8f4f-11eb-8e8d-dc2fdec6c772.png)
 
 
@@ -11,6 +11,7 @@ click to view the project [here](https://rathod-shubham.github.io/CovidTracker/)
 
 1] Create a react project using create-react-app.\
 2] Install: \
+
       - Material Ui : npm install @material-ui/core\
       - Chart.js : npm install chart.js\
       - React-Leaflet : npm install react-leaflet\
