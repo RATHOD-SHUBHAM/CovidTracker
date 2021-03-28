@@ -1,6 +1,6 @@
 # Covid Tracker
 Developed a covid tracker that tracks overall cases, recovered cases, and deaths across the globe.\
-Hover your mouse over your favorite country on the map for a pop up. 😉
+Hover your mouse over your favorite country on the map for a pop up. 😉\
 click to view the project [here](https://rathod-shubham.github.io/CovidTracker/)
 
 ## Getting Started with Create React App
