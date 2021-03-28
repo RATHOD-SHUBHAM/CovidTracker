@@ -1,0 +1,79 @@
+*{
+  margin: 0;
+}
+
+body{
+  background-color: #f5f6fa;   /* grey */
+}
+
+
+.app{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 20px 0px 20px;
+}
+
+.app__header{
+  display: flex;  /* flex will make everything appear in a straight line */
+  justify-content: space-between;  /* have space between the children */
+  align-items: center;  /* alight the items */
+  margin-bottom: 20px;
+}
+
+.app__header > h1 {
+  color: #fc3c3c;
+  /* color: #ee5c37ea; */
+}
+.app__header > h1 > h6 {
+  color: #0f0e0dea;
+}
+.app__dropdown {
+  background-color: white;
+}
+
+
+.app__stat{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+/* making my left container use 90% of full width */
+.app__left{
+  flex: 0.9;
+}
+
+.app_right_div{
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+
+/* If we do inspect . We see something as MultiCardContent-root*/
+
+.app_right_div .MultiCardContent-root{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+
+.app_right_graphtitle{
+  margin-top: 25px;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.app_right_graph{
+  flex-grow: 1;
+}
+
+
+/* Making my app responsive. Changing the directionn when the screen size is 990px */
+@media (max-width: 990px){
+  .app{
+    flex-direction: column;
+  }
+}

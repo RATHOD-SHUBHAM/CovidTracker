@@ -1,0 +1,58 @@
+.map{
+    height: 480px;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 20px;
+    margin-top: 16px;
+    box-shadow: 0 0 8px -4px rgba(0, 0, 0, 0.5);
+}
+
+/* leaflet will be automatically be rendered on screen. only thing is its height is not set */
+/*  when we create leaflet . they will automatically create leaflet container div.  */
+.map .leaflet-container {
+    height: 90%;
+}
+
+.info_container{
+    width: 150px;
+}
+
+
+/*  first set the info flag container  */
+.info_flag{
+    height: 80px;
+    width: 100%;
+    background-size: cover;
+    border-radius: 8px;
+}
+/*  then set the image flag */
+.info_flag img{
+    width: 100px;
+    border-radius: 5px;
+}
+
+.info_name{
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #555;
+}
+
+
+.info_confirmed{
+    font-size: 16px;
+    margin-top: 5px;
+    color:blue;
+}
+
+.info_recovered{
+    font-size: 14px;
+    margin-top: 5px;
+    color:green;
+}
+
+.info_deaths{
+    font-size: 16px;
+    margin-top: 5px;
+    color:red;
+}

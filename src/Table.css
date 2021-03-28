@@ -1,0 +1,25 @@
+.table{
+    margin-top: 20px;
+    overflow: scroll;
+    /* overflow should always have height associated with it */
+    height: 400px;
+    color: #6a5d5d;
+}
+
+/* I want every odd record to be more grey then the other record */
+/*  so every single odd row must me set to grey */
+.table tr:nth-of-type(odd){
+    background-color: #f3f2f8;
+}
+
+/*  for all of the table row. i need to display flex with a spacing in between to make it look good for every screen size */
+.table tr {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* for all of the table data make padding so that they dont appear to close to walls */
+.table td{
+    padding: 0.5rem;
+}
+

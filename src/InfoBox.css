@@ -1,0 +1,48 @@
+/* the cards can take up all the space */
+.infoBox {
+    flex: 1;
+    /* cursor pointer will make the cursor appear like a hand */
+    cursor: pointer; 
+    /* margin-right: 15px; */
+}
+
+/* Apply this rule to everyone but the last child */
+.infoBox:not(:last-child) {
+    margin-right: 15px;
+}
+
+.infoBox__cases {
+    color: lightskyblue;
+    font-weight: 600;
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+}
+
+/* important will overirde the material UL */
+.infoBox__total {
+    color: #6c757d;
+    font-weight: 700 !important;
+    font-size: 0.8rem !important;
+    margin-bottom: 15px !important;
+
+
+}
+
+.infoBox--selected {
+    border-top: 10px solid blue;
+}
+.infoBox--isGreen {
+    border-color: greenyellow;
+}
+.infoBox--isRed {
+    border-color: red;
+}
+
+
+.infoBox__cases--green{
+    color: lightgreen !important;
+}
+
+.infoBox__cases--red{
+    color: #cc1034;
+}
