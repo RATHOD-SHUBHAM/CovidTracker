@@ -7,10 +7,10 @@ click to view the project [here](https://rathod-shubham.github.io/CovidTracker/)
 
 1] Create a react project using create-react-app.\
 2] Install: \
-    - Material Ui : npm install @material-ui/core\
-    - Chart.js : npm install chart.js\
-    - React-Leaflet : npm install react-leaflet\
-    - Numeral : npm install numeral\
+        - Material Ui : npm install @material-ui/core\
+        - Chart.js : npm install chart.js\
+        - React-Leaflet : npm install react-leaflet\
+        - Numeral : npm install numeral\
 3] Run the application on local machine : local host 3000
 
 
@@ -50,7 +50,7 @@ Why [Numeral.js](http://numeraljs.com)\
 To know more about the API. Check out [disease.sh](https://disease.sh)
 
 ### Deployment
-Application was deployed on 
+Application was deployed on \
 Netlify - whats is [netlify](https://www.netlify.com)\
 Firebase - Google [firebase](https://firebase.google.com)\
 [github](https://rathod-shubham.github.io/CovidTracker/)  aswell.
