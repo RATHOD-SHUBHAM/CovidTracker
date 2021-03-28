@@ -6,7 +6,7 @@ click to view the project [here]()
 ## Getting Started with Create React App
 
 1] Create a react project using create-react-app.\
-2] Install: \
+2] Install: 
     - Material Ui : npm install @material-ui/core\
     - Chart.js : npm install chart.js\
     - React-Leaflet : npm install react-leaflet\
