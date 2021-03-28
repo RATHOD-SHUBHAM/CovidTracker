@@ -1,12 +1,12 @@
 # Covid Tracker
 Developed a covid tracker that tracks overall cases, recovered cases, and deaths across the globe.\
 Hover your mouse over your favorite country on the map for a pop up. 😉
-click to view the project [here]()
+click to view the project [here](https://rathod-shubham.github.io/CovidTracker/)
 
 ## Getting Started with Create React App
 
 1] Create a react project using create-react-app.\
-2] Install: 
+2] Install: \
     - Material Ui : npm install @material-ui/core\
     - Chart.js : npm install chart.js\
     - React-Leaflet : npm install react-leaflet\
@@ -53,4 +53,4 @@ To know more about the API. Check out [disease.sh](https://disease.sh)
 Application was deployed on 
 Netlify - whats is [netlify](https://www.netlify.com)\
 Firebase - Google [firebase](https://firebase.google.com)\
-github - 
+[github](https://rathod-shubham.github.io/CovidTracker/)  aswell.
