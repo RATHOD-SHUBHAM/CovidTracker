@@ -12,18 +12,18 @@ click to view the project [here](https://rathod-shubham.github.io/CovidTracker/)
 1] Create a react project using create-react-app.\
 2] Install: 
 
-      - Material Ui : npm install @material-ui/core\
-      - Chart.js : npm install chart.js\
-      - React-Leaflet : npm install react-leaflet\
+      - Material Ui : npm install @material-ui/core
+      - Chart.js : npm install chart.js
+      - React-Leaflet : npm install react-leaflet
       - Numeral : npm install numeral
  
 3] Run the application on local machine : local host 3000
 
 
-## Using this repo
-git clone or download the zip file.\
-Install all the packages and any packages that it depends on `npm install`
-Run the app: `npm start`
+## Using this 
+      git clone or download the zip file.
+      Install all the packages and any packages that it depends on `npm install`
+      Run the app: `npm start`
 
 ## API
 disease.sh - You can more about the api [here](https://disease.sh/docs/)
@@ -48,15 +48,16 @@ Your app is ready to be deployed!
 
 ## Learn More
 
-To learn React, check out the [React documentation](https://reactjs.org/).\
-Learn more about [Material-UI](https://material-ui.com/getting-started/installation/)\
-wanna know what chart.js is --> click [here](https://www.chartjs.org/docs/latest/)\
-To learn about react leaflets click [here](https://react-leaflet.js.org/docs/start-installation)
-Why [Numeral.js](http://numeraljs.com)\
-To know more about the API. Check out [disease.sh](https://disease.sh)
+      - To learn React, check out the [React documentation](https://reactjs.org/).
+      - Learn more about [Material-UI](https://material-ui.com/getting-started/installation/)
+      - Wanna know what chart.js is --> click [here](https://www.chartjs.org/docs/latest/)
+      - To learn about react leaflets click [here](https://react-leaflet.js.org/docs/start-installation)
+      - Why [Numeral.js](http://numeraljs.com)
+      - To know more about the API. Check out [disease.sh](https://disease.sh)
 
 ### Deployment
-Application was deployed on \
-Netlify - whats is [netlify](https://www.netlify.com)\
-Firebase - Google [firebase](https://firebase.google.com)\
-[github](https://rathod-shubham.github.io/CovidTracker/)  aswell.
+Application was deployed on 
+
+      - Netlify - whats is [netlify](https://www.netlify.com)
+      - Firebase - Google [firebase](https://firebase.google.com)
+      - [github](https://rathod-shubham.github.io/CovidTracker/)  aswell.
