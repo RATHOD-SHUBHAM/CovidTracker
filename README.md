@@ -26,7 +26,7 @@ click to view the project [here](https://rathod-shubham.github.io/CovidTracker/)
       Run the app: `npm start`
 
 ## API
-disease.sh - You can more about the api [here](https://disease.sh/docs/)
+- disease.sh - You can more about the api [here](https://disease.sh/docs/)
 
 ### In the project directory, you can run:
 
